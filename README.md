@@ -1,11 +1,11 @@
 # VENOM-2
-   <a><img src='https://i.imgur.com/117JXci.jpeg'/></a><a><img src='https://i.imgur.com/117JXci.jpeg'/></a>
+   <a><img src='https://i.imgur.com/117JXci.jpeg'/></a><a><img src=''/></a>
 <p align="center">
-<img src="https://i.imgur.com/o3rgLGK.jpeg"/> 
+<img src=""/> 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____VENOM+2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+DAVID+CYRIL;REALESE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
-<a><img src='https://i.imgur.com/117JXci.jpeg'/></a><a><img src='https://i.imgur.com/117JXci.jpeg'/></a>
+<a><img src=''/></a><a><img src=''/></a>
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
@@ -20,7 +20,7 @@
 </br>
  
 
-<a><img src='https://i.imgur.com/117JXci.jpeg'/></a><a><img src='https://i.imgur.com/117JXci.jpeg'/></a>
+<a><img src=''/></a><a><img src=''/></a>
 # Termux Deployment
 ```
 termux-setup-storage
